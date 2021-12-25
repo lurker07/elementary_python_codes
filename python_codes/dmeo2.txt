@@ -1,0 +1,254 @@
+
+
+    BYJU'S LOGO
+        BOOK FREE CLASS
+        COMPETITIVE EXAMS
+        SUCCESS STORIES
+
+        +919243500460
+
+    Maths
+    Maths Article
+    Maths Formulas
+    Maths Syllabus
+    Maths Important Questions
+    Maths Calculator
+    Maths MCQs
+
+    MathsMath ArticleSin 90 Degrees
+
+Top Banner
+Sin 90 degrees
+
+The trigonometric functions relate the angles of a triangle to the length of its sides. Trigonometric functions are important in the study of periodic phenomena like sound and light waves and many other applications. The most familiar three trigonometric ratios are sine function, cosine function and tangent function. For angles less than a right angle, trigonometric functions are commonly defined as the ratio of two sides of a right triangle containing the angle and their values can be found in the length of various line segments around a unit circle.
+
+The angles are calculated with respect to sin, cos and tan functions which are the primary functions, whereas cosecant, secant and cot functions are derived from the primary functions. Usually, the degrees are considered as 0°, 30°, 45°, 60°, 90°, 180°, 270° and 360°. Here, you will learn the value for sin 90 degrees and how the values are derived along with other degrees or radian values.
+Sine 90 degrees value
+
+To define the sine function of an acute angle, start with the right-angled triangle ABC with the angle of interest and the sides of a triangle. The three sides of the triangle are given as follows:
+
+sin 90 degrees
+
+    The opposite side – side opposite to the angle of interest.
+    The hypotenuse side – opposite side of the right angle and it is always the longest side of a right triangle
+    The adjacent side – remaining side of a triangle and it forms a side of both the angle of interest and the right angle
+
+The sine function of an angle is equal to the length of the opposite side divided by the length of the hypotenuse side and the formula is given by
+\(\sin \theta =\frac{opposite side}{hypotenuse side}\)
+
+The sine law states that the sides of a triangle are proportional to the sine of the opposite angles.
+\(\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}\)
+
+In the following cases, the sine rule is used. Those conditions are
+
+Case 1: Given two angles and one side (AAS and ASA)
+
+Case 2: Given two sides and non included angle (SSA)
+Derivation to Find the Value of Sin 90 Degrees
+
+Let us now calculate the value of sin 90°. Consider the unit circle. That is the circle with radius 1 unit and its centre placed in origin.
+
+sin 90 degrees
+
+From the basic knowledge of trigonometry, we conclude that for the given right-angled triangle, the base measuring ‘x’ units and the perpendicular measuring ‘y’ units.
+
+We know that,
+
+For any right-angled triangle measuring with any of the angles, sine functions equal to the ratio of the length of the opposite side to the length of the hypotenuse side. So, from the figure
+\(\sin \theta\) = y/1
+
+Start measuring the angles from the first quadrant and end up with 90° when it reaches the positive y-axis. Now the value of y becomes 1 since it touches the circumference of the circle. Therefore the value of y becomes 1.
+\(\sin \theta\) = y/1 = 1/1
+
+Therefore, sin 90 degree equals to the fractional value of 1/ 1.
+
+Sin 90° = 1
+
+The most common trigonometric sine functions are
+
+    Sin 90 degree plus theta
+
+\(\sin (90^{\circ}+\theta )=\cos \theta\)
+
+    Sin 90 degree minus theta
+
+\(\sin (90^{\circ}-\theta )=\cos \theta\)
+
+Some other trigonometric sine identities are as follows:
+
+    \(\sin x=\frac{1}{\csc x}\)
+    \(\sin^{2}x+\cos ^{2}x=1\)
+    \(\sin (-x)=-\sin x\)
+    Sin 2x = 2 sin x cos x
+
+In the same way, we can derive other values of sin angles like 0°, 30°,45°,60°,90°,180°,270° and 360°. Below is the trigonometry table, which defines all the values of sine along with other trigonometric ratios.
+Trigonometry Ratio Table
+Angles (In Degrees) 	0 	30 	45 	60 	90 	180 	270 	360
+Angles (In Radians) 	0 	π/6 	π/4 	π/3 	π/2 	π 	3π/2 	2π
+sin 	0 	1/2 	1/√2 	√3/2 	1 	0 	−1 	0
+cos 	1 	√3/2 	1/√2 	1/2 	0 	−1 	0 	1
+tan 	0 	1/√3 	1 	√3 	Not Defined 	0 	Not Defined 	0
+cot 	Not Defined 	√3 	1 	1/√3 	0 	Not Defined 	0 	Not Defined
+cosec 	Not Defined 	2 	√2 	2/√3 	1 	Not Defined 	−1 	Not Defined
+sec 	1 	2/√3 	√2 	2 	Not Defined 	−1 	Not Defined 	1
+
+Sample Example
+Question 1:
+
+Find the value of sin 135°.
+Solution:
+
+Given, sin 135° = sin ( 90° + 45° )
+
+= cos 45° [Since \(\sin(90^{\circ}+\theta )\) =\(\cos \theta\)]
+
+= 1 /√2
+
+Therefore, the value of sin 135° is 1 /√2
+Question 2:
+
+Find the value of cos 30°.
+Solution:
+
+Given , cos 30° = cos ( 90° – 60° )
+
+= Sin 60° [Since \(\cos(90^{\circ}-\theta )\) =\(\sin \theta\)]
+
+= \(\frac{\sqrt{3}}{2}\)
+
+Therefore, the value of cos 30° is \(\frac{\sqrt{3}}{2}\).
+
+Keep visiting BYJU’S for more information on trigonometric ratios and its related articles, and also watch the videos to clarify the doubts.
+Related Links
+Cosine Function 	Trigonometry Formulas
+Inverse Cosine 	Law of Sines Formula
+MATHS Related Links
+Hcf Formula 	Roman Numerals 1 100
+First 25 Prime Numbers 	Bodmas Rule
+Maths 2D And 3D Shapes 	Right Angled Triangle
+Total Surface Area Of Cuboid 	Area Of A Triangle
+Polynomials Class 9 	Equation Of A Plane
+Leave a Comment
+
+Your email address will not be published. Required fields are marked *
+
+Comment
+
+Name *
+
+Email *
+
+Book for free class
+CBSE Sample Papers
+
+    CBSE Sample Papers Class 8 Maths
+    CBSE Sample Papers Class 9 Maths
+    CBSE Sample Papers Class 10 Maths
+    CBSE Sample Papers Class 11 Maths
+    CBSE Sample Papers Class 12 Maths
+
+CBSE Previous Year Question Papers
+
+    CBSE Previous Year Question Papers Class 12 Maths
+    CBSE Previous Year Question Papers Class 10 Maths
+
+ICSE Sample Papers
+
+    ICSE Sample Papers Class 8 Maths
+    ICSE Sample Papers Class 9 Maths
+    ICSE Sample Papers Class 10 Maths
+    ISC Sample Papers Class 11 Maths
+    ISC Sample Papers Class 12 Maths
+
+ICSE Previous Year Question Papers
+
+    ICSE Previous Year Question Papers Class 10
+    ISC Previous Year Question Papers Class 12 Maths
+
+Ask A Doubt
+Join BYJU'S Learning Program
+COURSES
+
+    CBSE
+    ICSE
+    CAT
+    IAS
+    JEE
+    NEET
+    Commerce
+    Bank Exam
+    NCERT
+
+EXAMS
+
+    CAT Exam
+    IAS Exam
+    UPSC Syllabus
+    UPSC 2020
+    Government Exams
+    JEE Main
+
+RESOURCES
+
+    Blog
+    Videos
+    CBSE Sample Papers
+    CBSE Question Papers
+    DSSL
+
+EXAM PREPARATION
+
+    Free CAT Prep
+    Free IAS Prep
+    Maths
+    Physics
+    Chemistry
+    Biology
+
+COMPANY
+
+    About Us
+    Contact Us
+    Student Feedback
+    Investors
+    Careers
+    BYJU'S in Media
+    Students Stories - The Learning Tree
+    Faces of BYJU'S – Life at BYJU'S
+    Social Initiative - Education for All
+    BYJU'S APP
+
+FOLLOW US
+
+Free Textbook Solutions
+
+    NCERT Solutions
+    NCERT Exemplar
+    NCERT Solutions for Class 6
+    NCERT Solutions for Class 7
+    NCERT Solutions for Class 8
+    NCERT Solutions for Class 9
+    NCERT Solutions for Class 10
+    NCERT Solutions for Class 11
+    NCERT Solutions for Class 12
+    RD Sharma Solutions
+    RS Aggarwal Solutions
+    ICSE Selina Solutions
+
+State Boards
+
+    Maharashtra
+    Gujarat
+    Tamil Nadu
+    Karnataka
+    Kerala
+    Andhra Pradesh
+    Telangana
+    Uttar Pradesh
+    Bihar
+    Rajasthan
+    Madhya Pradesh
+
+Disclaimer  |  Privacy Policy  |  Terms of Services  |  Sitemap
+© 2020, BYJU'S. All rights reserved.
+
